@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Landmark Technologies System.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over 1m millionaires by 2030.
+	           We are raising over 1m millionaires by 2030 by the grace of God.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
